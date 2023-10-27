@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "255454918243",
+    "firebase_url": "https://smart-water-monitoring-s-bd2ac-default-rtdb.firebaseio.com",
+    "project_id": "smart-water-monitoring-s-bd2ac",
+    "storage_bucket": "smart-water-monitoring-s-bd2ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255454918243:android:11f538588a9f255d492a56",
+        "android_client_info": {
+          "package_name": "com.example.smartwater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255454918243-0nci6n534h9aodlnpctanjavr0i10ilj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANtEaoiva9KZhJOxU2EbElHevG3eupmxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255454918243-0nci6n534h9aodlnpctanjavr0i10ilj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

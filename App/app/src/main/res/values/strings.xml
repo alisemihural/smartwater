@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Smart Water</string>
+    <string name="country_prompt" translatable="false">Country</string>
+
+    <string-array name="cities">
+        <item></item>
+        <item>China/Beijing</item>
+        <item>England/London</item>
+        <item>Germany/Berlin</item>
+        <item>Japan/Tokyo</item>
+        <item>Sweden/Stockholm</item>
+        <item>Turkey/Ankara</item>
+        <item>USA/Washington</item>
+    </string-array>
+
+    <string-array name="birim">
+        <item></item>
+        <item>Money</item>
+        <item>L</item>
+    </string-array>
+
+</resources>
