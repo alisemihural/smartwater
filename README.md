@@ -48,7 +48,7 @@ The core objectives of this project are:
 <img src="docs/waterMeter.png" alt="Logo" width="350"/>
 <img src="docs/pressureReducer.png" alt="Logo" width="215"/>
 
-### Circuit Diagram for Smart the Pressure Reducer
+### Circuit Diagram for the Smart Pressure Reducer
 <img src="docs/circuitDiagram.png" alt="Logo" width="800"/>
 
 
