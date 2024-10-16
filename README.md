@@ -1,9 +1,11 @@
 # Smart Water - Monitoring of Household Water Use and Control of Pressure with IoT and Cloud Database
-## [Poster](docs/poster.png)  </br> [Report](docs/report.pdf)
+
+
+
 <img src="docs/logo.png" alt="Logo" width="400"/>
 
 
-This project aims to monitor household water usage and control pressure by integrating Internet of Things (IoT) devices and a cloud database system. The model enables users to track their water consumption in real-time, categorize water usage, and apply pressure-reducing mechanisms to save water efficiently.
+This project aims to monitor household water usage and control pressure by integrating Internet of Things (IoT) devices and a cloud database system. The model enables users to track their water consumption in real-time, categorize water usage, and apply pressure-reducing mechanisms to save water efficiently.Here you can find the project **[poster](docs/poster.png)** and the detailed **[report](docs/report.pdf)**.
 
 ## Project Purpose
 
@@ -35,6 +37,20 @@ The core objectives of this project are:
 2.	Data Storage: The collected data is stored in a Firebase cloud database.
 3.	Pressure Control: A motor controls the pressure reducer based on water consumption patterns, enabling pressure adjustment in real time.
 4.	Mobile Interface: The mobile app pulls data from Firebase to display consumption statistics, pricing, and the functionality of the pressure-reduction system.
+
+## Photos and Screenshots
+
+### Mobile App
+
+<img src="docs/mobileApp.png" alt="Logo" width="800"/>
+
+### Smart Water Meter and Pressure Reducer
+<img src="docs/waterMeter.png" alt="Logo" width="350"/>
+<img src="docs/pressureReducer.png" alt="Logo" width="215"/>
+
+### Circuit Diagram for Smart the Pressure Reducer
+<img src="docs/circuitDiagram.png" alt="Logo" width="800"/>
+
 
 ## Results
 
